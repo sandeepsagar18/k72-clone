@@ -59,7 +59,7 @@ const Projects = () => {
         })}
 
       </div>
-        <div className='h-full w-full '> <video autoPlay loop muted className='h-full w-full object-cover hover:rounded-2xl ' src="https://vod-progressive-ak.vimeocdn.com/exp=1781252222~acl=%2Fvimeo-prod-skyfire-std-us%2F01%2F4727%2F27%2F698636736%2F3231249874.mp4~hmac=aa866cfa0fb2d9df4c72f63ee1465487efba6607021e13570c2b4f1ac46aaee8/vimeo-prod-skyfire-std-us/01/4727/27/698636736/3231249874.mp4"></video></div>
+        <div className='h-full w-full '> <video autoPlay loop muted className='h-full w-full object-cover hover:rounded-2xl ' src="/videoice.mp4"></video></div>
       <footer className='bg-black h-[50vh] w-full hover:rounded-2xl absolute bottom-0  m-2   flex justify-evenly items-end py-10'> 
         <h2 className='text-white uppercase hover:text-yellow-400 m-2 p-2  bottom-0'> privacy policy</h2>
         <h2 className='text-white uppercase hover:text-yellow-400 m-2 p-2  bottom-0'> privacy notice</h2>
