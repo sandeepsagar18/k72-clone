@@ -59,7 +59,7 @@ const Projects = () => {
         })}
 
       </div>
-        <div className='h-full w-full '> <video autoPlay loop muted className='h-full w-full object-cover hover:rounded-2xl ' src="/videoice.mp4"></video></div>
+        <div className='h-full w-full '> <video autoPlay loop muted className='h-full w-full object-cover hover:rounded-2xl ' src="/videowidescape.mp4"></video></div>
       <footer className='bg-black h-[50vh] w-full hover:rounded-2xl absolute bottom-0  m-2   flex justify-evenly items-end py-10'> 
         <h2 className='text-white uppercase hover:text-yellow-400 m-2 p-2  bottom-0'> privacy policy</h2>
         <h2 className='text-white uppercase hover:text-yellow-400 m-2 p-2  bottom-0'> privacy notice</h2>
